@@ -106,5 +106,5 @@ Nesse exemplo, o valor da variável `diaSemana` é verificado usando a estrutura
 As estruturas de controle são ferramentas essenciais para controlar o fluxo de execução do programa e tomar decisões com base em condições específicas. Elas permitem criar lógica complexa e controlar o comportamento do programa de forma dinâmica.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [2. Fundamentos da Linguagem Pawn](https://github.com/device-black/pawn-tutorial/)
-### [4. Funções em Pawn](https://github.com/device-black/pawn-tutorial/)
+### [2. Fundamentos da Linguagem Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fundamentos%20da%20Linguagem%20Pawn.md)
+### [4. Funções em Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fun%C3%A7%C3%B5es%20em%20Pawn.md)

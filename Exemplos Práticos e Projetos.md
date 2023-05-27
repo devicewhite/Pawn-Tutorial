@@ -29,5 +29,5 @@ Esses projetos simples fornecem oportunidades para explorar os conceitos básico
 Lembre-se de começar com projetos simples e, à medida que ganha mais experiência e confiança em Pawn, você pode progredir para projetos mais complexos. Não hesite em explorar tutoriais, exemplos de código e recursos online para obter inspiração e suporte durante o desenvolvimento dos seus projetos.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [9. Depuração e Tratamento de Erros](https://github.com/device-black/pawn-tutorial/)
-### [11. Recursos Adicionais e Referências](https://github.com/device-black/pawn-tutorial/)
+### [9. Depuração e Tratamento de Erros](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Depura%C3%A7%C3%A3o%20e%20Tratamento%20de%20Erros.md)
+### [11. Recursos Adicionais e Referências](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Recursos%20Adicionais%20e%20Refer%C3%AAncias.md)

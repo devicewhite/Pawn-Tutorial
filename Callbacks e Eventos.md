@@ -46,5 +46,5 @@ Nesse exemplo, temos a função `OnPlayerConnect` que será executada quando oco
 Esses são apenas exemplos básicos de como callbacks podem ser usados em Pawn. A utilização de callbacks permite uma maior flexibilidade e modularidade no desenvolvimento de programas, permitindo que diferentes partes do código sejam executadas em resposta a eventos específicos ou condições predefinidas.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [6. Trabalhando com Arquivos](https://github.com/device-black/pawn-tutorial/)
-### [8. Sobre Bibliotecas](https://github.com/device-black/pawn-tutorial/)
+### [6. Trabalhando com Arquivos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Trabalhando%20com%20Arquivos.md)
+### [8. Sobre Bibliotecas](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Sobre%20Bibliotecas.md)

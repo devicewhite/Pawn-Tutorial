@@ -47,5 +47,5 @@ Embora Pawn não possua um mecanismo de tratamento de exceções robusto, é pos
 Em suma, a depuração de código e o tratamento de erros são práticas fundamentais no desenvolvimento de software em Pawn. Através da depuração adequada, é possível identificar e corrigir problemas, enquanto o tratamento de erros permite lidar com situações excepcionais de forma controlada. Utilizando técnicas eficazes de depuração e implementando tratamento de erros apropriado, é possível desenvolver programas mais confiáveis e robustos em Pawn.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [8. Sobre Bibliotecas](https://github.com/device-black/pawn-tutorial/)
-### [10. Exemplos Práticos e Projetos](https://github.com/device-black/pawn-tutorial/)
+### [8. Sobre Bibliotecas](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Sobre%20Bibliotecas.md)
+### [10. Exemplos Práticos e Projetos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Exemplos%20Pr%C3%A1ticos%20e%20Projetos.md)

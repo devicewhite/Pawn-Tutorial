@@ -73,5 +73,5 @@ Nesse exemplo, a função `CalculaFatorial` é definida de forma recursiva para 
 A recursividade pode ser uma técnica poderosa, mas é importante usá-la com cuidado para evitar loops infinitos ou desempenho excessivo.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [3. Estruturas de Controle](https://github.com/device-black/pawn-tutorial/)
-### [5. Manipulação de Strings e Arrays](https://github.com/device-black/pawn-tutorial/)
+### [3. Estruturas de Controle](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Estruturas%20de%20Controle.md)
+### [5. Manipulação de Strings e Arrays](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20Arrays.md)

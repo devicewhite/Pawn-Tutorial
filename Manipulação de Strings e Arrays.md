@@ -110,5 +110,5 @@ Nesse exemplo, o elemento na segunda linha e primeira coluna da matriz `matriz` 
 A manipulação de strings e arrays permite que os programas em Pawn trabalhem com conjuntos de dados mais complexos e realizem operações personalizadas de acordo com as necessidades do programa. Esses recursos são fundamentais para a criação de algoritmos eficientes e a manipulação de informações de forma estruturada.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [4. Funções em Pawn](https://github.com/device-black/pawn-tutorial/)
-### [6. Trabalhando com Arquivos](https://github.com/device-black/pawn-tutorial/)
+### [4. Funções em Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fun%C3%A7%C3%B5es%20em%20Pawn.md)
+### [6. Trabalhando com Arquivos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Trabalhando%20com%20Arquivos.md)

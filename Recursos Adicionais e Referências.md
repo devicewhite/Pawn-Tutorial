@@ -25,4 +25,4 @@ Esses recursos adicionais e referências podem ser úteis para expandir seus con
 Lembre-se de explorar diferentes fontes e participar ativamente das comunidades online para aproveitar ao máximo esses recursos adicionais.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [10. Exemplos Práticos e Projetos](https://github.com/device-black/pawn-tutorial/)
+### [10. Exemplos Práticos e Projetos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Exemplos%20Pr%C3%A1ticos%20e%20Projetos.md)

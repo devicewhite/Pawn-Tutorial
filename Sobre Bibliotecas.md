@@ -53,5 +53,5 @@ Desenvolver bibliotecas personalizadas em Pawn permite uma melhor organização 
 Lembrando que a importação e o desenvolvimento de bibliotecas personalizadas dependem da disponibilidade e compatibilidade com o compilador de Pawn utilizado. Certifique-se de verificar a documentação do compilador para obter informações mais detalhadas sobre a importação e uso de bibliotecas personalizadas em seu ambiente de desenvolvimento.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [7. Callbacks e Eventos](https://github.com/device-black/pawn-tutorial/)
-### [9. Depuração e Tratamento de Erros](https://github.com/device-black/pawn-tutorial/)
+### [7. Callbacks e Eventos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Callbacks%20e%20Eventos.md)
+### [9. Depuração e Tratamento de Erros](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Depura%C3%A7%C3%A3o%20e%20Tratamento%20de%20Erros.md)

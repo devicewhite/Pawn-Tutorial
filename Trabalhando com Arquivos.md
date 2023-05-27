@@ -37,5 +37,5 @@ Nesse exemplo, o arquivo "arquivo.txt" é aberto para leitura. Um buffer é decl
 A manipulação de arquivos em Pawn permite a interação com o sistema de arquivos e facilita a leitura e escrita de dados armazenados externamente. Essas operações são úteis para o processamento de arquivos de configuração e armazenamento de dados persistentes.
 
 ### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [5. Manipulação de Strings e Arrays](https://github.com/device-black/pawn-tutorial/)
-### [7. Callbacks e Eventos](https://github.com/device-black/pawn-tutorial/)
+### [5. Manipulação de Strings e Arrays](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20Arrays.md)
+### [7. Callbacks e Eventos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Callbacks%20e%20Eventos.md)
