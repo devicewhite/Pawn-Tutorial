@@ -58,11 +58,11 @@
    7.3. Exemplos de Utilização
 ```
 
-#### 8. Bibliotecas e Módulos
+#### 8. Sobre Bibliotecas
 
 ```
    8.1. Importação e Uso de Bibliotecas
-   8.2. Desenvolvimento de Módulos Personalizados
+   8.2. Desenvolvimento de Bibliotecas Personalizadas
 ```
 
 #### 9. Depuração e Tratamento de Erros
