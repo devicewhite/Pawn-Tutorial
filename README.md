@@ -35,7 +35,7 @@
    4.4. Recursividade
 ```
 
-#### 5. Manipulação de Strings e Arrays
+#### [5. Manipulação de Strings e Arrays](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Manipula%C3%A7%C3%A3o%20de%20Strings%20e%20Arrays.md)
 
 ```
    5.1. Operações de String
