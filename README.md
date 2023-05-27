@@ -65,7 +65,7 @@
    8.2. Desenvolvimento de Bibliotecas Personalizadas
 ```
 
-#### 9. Depuração e Tratamento de Erros
+#### [9. Depuração e Tratamento de Erros](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Depura%C3%A7%C3%A3o%20e%20Tratamento%20de%20Erros.md)
 
 ```
    9.1. Depuração de Código
