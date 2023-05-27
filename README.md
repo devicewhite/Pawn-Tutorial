@@ -1,6 +1,6 @@
 ## Sumário do Tutorial sobre a Linguagem Pawn
 
-#### [1. Introdução à Linguagem Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fundamentos%20da%20Linguagem%20Pawn.md)
+#### [1. Introdução à Linguagem Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Introdu%C3%A7%C3%A3o%20%C3%A0%20Linguagem%20Pawn.md)
 
 ```
    1.1. O que é Pawn?
