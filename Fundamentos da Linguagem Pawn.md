@@ -198,5 +198,6 @@ Nesse exemplo, as variáveis `a` e `b` são utilizadas para realizar operações
 
 Essas operações lógicas e relacionais, bem como as operações aritméticas e lógicas bit a bit, são fundamentais para a manipulação e o processamento de dados em Pawn.
 
-### [VOLTAR PARA: Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [VOLTAR PARA: Introdução à Linguagem Pawn](https://github.com/device-black/pawn-tutorial/)
+### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
+### [1. Introdução à Linguagem Pawn](https://github.com/device-black/pawn-tutorial/)
+### [3. Estruturas de Controle](https://github.com/device-black/pawn-tutorial/)
