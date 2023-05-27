@@ -79,7 +79,7 @@
    10.2. Desenvolvimento de Projetos Simples
 ```
 
-#### 11. Recursos Adicionais e Referências
+#### [11. Recursos Adicionais e Referências](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Recursos%20Adicionais%20e%20Refer%C3%AAncias.md)
 
 ```
    11.1. Comunidades e Fóruns
