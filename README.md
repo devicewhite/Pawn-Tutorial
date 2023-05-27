@@ -50,7 +50,7 @@
    6.2>. Manipulação de Diretórios
 ```
 
-#### 7. Callbacks e Eventos
+#### [7. Callbacks e Eventos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Callbacks%20e%20Eventos.md)
 
 ```
    7.1. Conceito de Callbacks
