@@ -47,7 +47,7 @@
 
 ```
    6.1. Leitura e Escrita de Arquivos
-   6.2>. Manipulação de Diretórios
+   6.2. Manipulação de Diretórios
 ```
 
 #### [7. Callbacks e Eventos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Callbacks%20e%20Eventos.md)
