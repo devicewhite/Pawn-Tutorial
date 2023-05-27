@@ -26,7 +26,7 @@
    3.3. Switch-Case
 ```
 
-#### 4. Funções em Pawn
+#### [4. Funções em Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fun%C3%A7%C3%B5es%20em%20Pawn.md)
 
 ```
    4.1. Declaração e Definição de Funções
