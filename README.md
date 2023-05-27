@@ -18,7 +18,7 @@
    2.6. Operações Lógicas Bit a Bit
 ```
 
-#### 3. Estruturas de Controle
+#### [3. Estruturas de Controle](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Estruturas%20de%20Controle.md)
 
 ```
    3.1. Condicional if-else
