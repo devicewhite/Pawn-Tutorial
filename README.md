@@ -58,7 +58,7 @@
    7.3. Exemplos de Utilização
 ```
 
-#### 8. Sobre Bibliotecas
+#### [8. Sobre Bibliotecas](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Sobre%20Bibliotecas.md)
 
 ```
    8.1. Importação e Uso de Bibliotecas
