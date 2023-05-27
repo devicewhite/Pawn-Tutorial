@@ -43,7 +43,7 @@
    5.3. Acesso e Modificação de Elementos
 ```
 
-#### 6. Trabalhando com Arquivos
+#### [6. Trabalhando com Arquivos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Trabalhando%20com%20Arquivos.md)
 
 ```
    6.1. Leitura e Escrita de Arquivos
