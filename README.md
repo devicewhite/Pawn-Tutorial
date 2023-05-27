@@ -72,7 +72,7 @@
    9.2. Tratamento de Exceções
 ```
 
-#### 10. Exemplos Práticos e Projetos
+#### [10. Exemplos Práticos e Projetos](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Exemplos%20Pr%C3%A1ticos%20e%20Projetos.md)
 
 ```
    10.1. Demonstração de Aplicações da Linguagem Pawn
