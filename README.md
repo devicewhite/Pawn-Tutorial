@@ -7,7 +7,7 @@
    1.2. Aplicações e uso da linguagem
 ```
 
-#### 2. Fundamentos da Linguagem Pawn
+#### [2. Fundamentos da Linguagem Pawn](https://github.com/device-black/pawn-tutorial)
 
 ```
    2.1. Escopo e Blocos
