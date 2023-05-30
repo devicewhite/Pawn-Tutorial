@@ -95,7 +95,7 @@ switch(diaSemana)
 		printf("Terça-feira");
 	}
 
-	default:
+	default: {
 		printf("Dia inválido");
 	}
 }
