@@ -4,7 +4,7 @@ A linguagem de programação Pawn é um sistema de script de código aberto, pro
 
 #### 1.1 O que é Pawn?
 
-A linguagem Pawn pode ser definida como uma linguagem de script sem tipo, de 32 bits, com uma sintaxe que se assemelha à linguagem C. Foi originalmente desenvolvida com o intuito de permitir a personalização de programas, através da criação de scripts que manipulam objetos dentro desses programas. Diferentemente das linguagens de programação convencionais, o Pawn não possui um sistema de tipos rigoroso, o que proporciona maior flexibilidade aos desenvolvedores.
+A linguagem Pawn pode ser definida como uma linguagem de script sem tipo, com uma sintaxe que se assemelha à linguagem C. Foi originalmente desenvolvida com o intuito de permitir a personalização de programas, através da criação de scripts que manipulam objetos dentro desses programas. Diferentemente das linguagens de programação convencionais, o Pawn não possui um sistema de tipos rigoroso, o que proporciona maior flexibilidade aos desenvolvedores.
 
 #### 1.2 Aplicações e uso da linguagem
 
