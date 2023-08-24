@@ -14,5 +14,5 @@ Além da indústria de jogos, a linguagem Pawn também pode ser empregada em out
 
 Em suma, a linguagem Pawn é uma linguagem de script de código aberto, projetada para personalizar programas, com ênfase na indústria de jogos. Sua sintaxe semelhante à linguagem C, seu baixo consumo de recursos e sua flexibilidade a tornam uma opção popular para desenvolvedores que desejam criar scripts para modificar e adicionar funcionalidades personalizadas aos seus programas.
 
-### [Sumário do Tutorial](https://github.com/device-black/pawn-tutorial/)
-### [2. Fundamentos da Linguagem Pawn](https://github.com/Device-Black/Pawn-Tutorial/blob/DeviceBlack/Fundamentos%20da%20Linguagem%20Pawn.md)
+### [Sumário do Tutorial](README.md)
+### [2. Fundamentos da Linguagem](fundamentos-da-linguagem.md)
