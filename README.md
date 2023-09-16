@@ -1,3 +1,6 @@
+# EM RESTRUTURAÇÃO 🧐
+Alguns hiperlinks podem estar desligados, mas voce pode achar os arquivos manualmente e então ler.
+
 ## Sumário do Tutorial sobre a Linguagem Pawn
 
 #### [1. Introdução à Linguagem](introducao-a-linguagem.md)
